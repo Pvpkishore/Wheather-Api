@@ -1,0 +1,32 @@
+body{
+    font-family: "Ubuntu", sans-serif;
+}
+h3{
+    margin-left:5px;
+    margin-top:15px;
+    margin-bottom:10px;
+}
+.card-img-top{
+    height:9rem;
+    margin-top:5px;
+    margin-bottom:8px;
+    background-color:#f0fdff;
+    padding:15px;
+}
+h5{
+   text-align: center;
+}
+.card-text{
+    text-align: center;
+    font-weight: 800;
+}
+footer {
+    text-align: center;
+    color: #000000;
+   position: relative;
+   margin-top:20px;
+   margin-bottom: 0px;
+    width: 100%
+   
+  }
+  
