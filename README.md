@@ -69,7 +69,7 @@ Contributions are welcome! Please submit issues or pull requests to improve this
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:pvpkishore09).
+For any questions or feedback, please reach out to [pvpkishore09@gmail.com]
 
 ---
 
