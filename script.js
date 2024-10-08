@@ -8,7 +8,7 @@ async function fetchWeather(city) {
         const response = await fetch("https://open-weather13.p.rapidapi.com/city/" + city_name + "/EN", {
             method: 'GET',
             headers: {
-                'x-rapidapi-key': 'API_KEY',
+                'x-rapidapi-key': 'a431770a3fmsh7254fe3052269e7p1ccaf3jsn270899d0d699',
                 'x-rapidapi-host': 'open-weather13.p.rapidapi.com'
             }
         });
@@ -77,3 +77,5 @@ searchbtn.addEventListener('click', (e) => {
         fetchWeather(city_name);
     }
 });
+// fetchWeather("Delhi")
+
